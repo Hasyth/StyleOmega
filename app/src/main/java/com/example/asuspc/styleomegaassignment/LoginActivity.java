@@ -1,7 +1,7 @@
 //package com.example.asuspc.styleomegaassignment;
 //
 //
-*
+
 // * Created by Asus PC on 8/24/2017.
 //
 

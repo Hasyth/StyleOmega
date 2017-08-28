@@ -40,7 +40,7 @@ public class RegisterActivity extends Activity {
             String pnumber = phonenumber.getText().toString();
             String mail = email.getText().toString();
 
-
+//edited
         }
 
     }
